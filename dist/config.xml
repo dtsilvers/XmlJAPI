@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<databases>
+		<schema>dev</schema>
+		<schema>qa</schema>
+		<schema>prod</schema>
+	</databases>
+	<log file="/tmp/app.log"/>
+</config>
